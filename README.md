@@ -35,7 +35,7 @@ Screenshot of my mobile design:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-html-and-css-7YaFgV_BHv](https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-html-and-css-7YaFgV_BHv)
 - Live Site URL: [https://marlisarebaum.github.io/flexbox-QR-code/](https://marlisarebaum.github.io/flexbox-QR-code/)
 
 ## My process
