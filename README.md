@@ -36,7 +36,7 @@ Screenshot of my mobile design:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://marlisarebaum.github.io/QR-Code/](https://marlisarebaum.github.io/QR-Code/)
+- Live Site URL: [https://marlisarebaum.github.io/flexbox-QR-code/](https://marlisarebaum.github.io/flexbox-QR-code/)
 
 ## My process
 
