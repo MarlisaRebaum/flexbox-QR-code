@@ -52,5 +52,5 @@ In this project, I practiced using flexbox to create more responsive websites.
 
 ## Author
 
-- LinkedIn - [Marlisa Rebaum](https://www.linkedin.com/in/marlisa-rebaum-482659232/)
+- LinkedIn - [Marlisa Rebaum](https://www.linkedin.com/in/marlisarebaum/)
 - Frontend Mentor - [@marlisar](https://www.frontendmentor.io/profile/marlisar)
